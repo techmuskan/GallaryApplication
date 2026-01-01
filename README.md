@@ -27,8 +27,9 @@ This project demonstrates basic API integration, minimal functionality, and simp
 GallaryApplication/
 │── src/
 │   ├── components/
-│   │   ├── Gallary.jsx
-│   │   ├── Pagination.jsx
+|   |   ├── Prev.jsx
+│   │   ├── Next.jsx
+│   │   ├── Card.jsx
 │   ├── App.jsx
 │   ├── index.js
 │── public/
