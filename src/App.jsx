@@ -35,9 +35,15 @@ const App = () => {
         {printUserData}
       </div>
       <div className='flex w-full justify-center gap-20 bottom-0 px-10 items-center relative'>
-        <Prev/>
+        <Prev
+        index={index} 
+        setIndex={setIndex} 
+        setUserData={setUserData} />
         <p className='font-bold text-2xl'>Page {index}</p>
-        <Next/>
+        <Next
+        index={index} 
+        setIndex={setIndex} 
+        setUserData={setUserData} />
       </div>
     </div>
   )

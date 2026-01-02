@@ -1,6 +1,7 @@
 import React from 'react'
 
-const Prev = () => {
+const Prev = ({index, setIndex, setUserData}) => {
+
   return (
     <div>
       <button 

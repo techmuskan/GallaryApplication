@@ -1,6 +1,7 @@
 import React from 'react'
 
-const Next = () => {
+const Next = ({index, setIndex, setUserData}) => {
+
   return (
     <div>
       <button 
