@@ -72,7 +72,6 @@ GallaryApplication/
 - Enhance UI with animations and hover effects.
 - Add error handling and loading states.
 
----
 
 ## 📜 License
 This project is open-source and available under the **MIT License**.
