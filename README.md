@@ -16,9 +16,9 @@ This project demonstrates basic API integration, minimal functionality, and simp
 ---
 
 ## 🛠️ Tech Stack
-- **React** – Component-based UI library.
-- **Tailwind CSS** – Utility-first CSS framework for styling.
-- **API** – Provides image data for the gallary.
+- **React** – Component-based UI library
+- **Tailwind CSS** – Utility-first CSS framework for styling
+- **API** – Provides image data for the gallary
 
 ---
 
